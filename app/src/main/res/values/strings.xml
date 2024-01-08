@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MindMath</string>
+    <string name="appName">Mind Math</string>
+    <string name="start">Start</string>
+    <string name="sessionRecordString">Session Record: 0</string>
+    <string name="lastGamePointsString">Last Game Points: 0</string>
+    <string name="addition">+</string>
+    <string name="substraction">-</string>
+    <string name="multiplication">x</string>
+    <string name="division">/</string>
+    <string name="equality">=</string>
+    <string name="points">Points: 0 / 10</string>
+    <string name="number">Nr1</string>
+    <string name="sign">Sign</string>
+    <string name="equalsToNumber">Nr2</string>
+    <string name="answer">Answer</string>
+    <string name="quit">Quit</string>
+    <string name="enter">Enter</string>
+</resources>
