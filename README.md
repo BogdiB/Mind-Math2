@@ -1,4 +1,3 @@
 # Mind Math 2
-App made with Java and the Android SDK.
-
-**Work in progress.**
+Android application/game for simple math problems.
+Made with Java and Android SDK, in Android Studio.
